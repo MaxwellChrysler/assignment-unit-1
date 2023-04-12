@@ -17,6 +17,6 @@ It will return the downloaded version of git on your device
 # 8 - Why would you run the command 'git status'?
 You would run 'git status' to see if you had made changes that need to be uploaded.
 # 9 - What does the command 'git add .' do?
-'git add .' uploads the changes that have been made
+'git add .' changes the working directory to the staging area // I think then 'git commit -m' then is done to finalize things prior to pushing the commited changes. Is this correct?
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 'git push origin main' 

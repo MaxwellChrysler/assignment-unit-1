@@ -1,6 +1,37 @@
+
+header{ 
+    background-color:rebeccapurple;
+    padding: -1px;
+}
+    h1{
+        text-align:center;
+    }
+    body {background-color:aquamarine}
+p{
+    color:black;
+  font-size:20px;
+  font-family: "Times New Roman", Times, serif; 
+}
+img{
+    border:3px solid black;
+}
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
+footer{
+    
+    background-color:rebeccapurple;
+  
+    padding:10px;
+    }
+
+h2{
+    color:black;
+    padding: 2px;
+    
+}
+
+
 
 /* Align the h1 containing your name in the center of the header*/
 
